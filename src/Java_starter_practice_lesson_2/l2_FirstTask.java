@@ -1,4 +1,4 @@
-package Java_starter_practise_plus_dz_lesson_2;
+package Java_starter_practice_lesson_2;
 
 import java.util.Scanner;
 

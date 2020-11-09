@@ -1,4 +1,4 @@
-package Java_starter_practise_plus_dz_lesson_2;
+package Java_starter_practice_lesson_2;
 
 import java.util.Scanner;
 
@@ -14,7 +14,7 @@ public class l2_ThirdTask {
         int yeardelenniy_na100=year%100;    /////-
         int yeardelenniy_na400=year%400;    /////+
 
-        if ((yeardelenniy_na4==0&&yeardelenniy_na100!=0)||(yeardelenniy_na400==0)){
+        if (yeardelenniy_na4==0&&yeardelenniy_na100!=0||yeardelenniy_na400==0){
             System.out.println("god visokostniy");
         }
         else {
