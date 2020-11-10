@@ -1,5 +1,5 @@
 package Java_starter_practice_lesson_3;
-
+//Вычеслить при помощи цыкла факториал числа 4<Н<16
 import java.util.Scanner;
 
 public class l3_SecondTask {

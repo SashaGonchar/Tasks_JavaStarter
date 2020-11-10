@@ -1,5 +1,5 @@
 package Java_starter_practice_lesson_3;
-
+//Вывести на экран прямоугольник из звездочек. ширина и высота прямоугольника задаеться вручную.
 import java.util.Scanner;
 
 public class l3_FourthTask {

@@ -1,5 +1,5 @@
 package Java_starter_practice_lesson_2;
-
+//Написать программу которая считает 4 числа введенные с клавиатуры и выведет наибольшее из них
 import java.util.Scanner;
 
 public class l2_FirstTask {

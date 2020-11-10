@@ -1,5 +1,6 @@
 package Java_starter_practice_lesson_1;
-
+//Написать программу которая вычислит и выведет на экран
+//площадь треугольника если известны его стороны.
 import java.util.Scanner;
 
 public class l1_SecondTask {

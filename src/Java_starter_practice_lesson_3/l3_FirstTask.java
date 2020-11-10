@@ -1,5 +1,5 @@
 package Java_starter_practice_lesson_3;
-
+//С помощью цыклов нарисовать обои. При чем количество полос должно воодится вручную
 import java.util.Scanner;
 
 public class l3_FirstTask {

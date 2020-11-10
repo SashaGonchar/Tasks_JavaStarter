@@ -1,5 +1,7 @@
 package Java_starter_practice_lesson_1;
-
+//Написать программу которая считывает 5-и значное число с
+//клавиатуры и выводит цифры из которого оно состоит.
+//Например : Считывается число 54698
 import java.util.Scanner;
 
 public class l1_FirstTask {

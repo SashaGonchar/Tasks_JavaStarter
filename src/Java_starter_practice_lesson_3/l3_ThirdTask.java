@@ -1,5 +1,5 @@
 package Java_starter_practice_lesson_3;
-
+//напечатать таблицу умножения на 5
 public class l3_ThirdTask {
     public static void main(String[]args){
 
