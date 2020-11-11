@@ -1,4 +1,4 @@
-package Java_starter_practice_lasson_4;
+package Java_starter_practice_lesson_4;
 //написать код для возможности создания масива целых чисел (размер воодиться с клавиатуры)
 //и возможности заполнения каждого его елемента вручную
 import java.util.Arrays;

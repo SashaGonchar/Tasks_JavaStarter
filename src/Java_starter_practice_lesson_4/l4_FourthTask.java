@@ -1,4 +1,4 @@
-package Java_starter_practice_lasson_4;
+package Java_starter_practice_lesson_4;
 
 import java.util.Scanner;
 

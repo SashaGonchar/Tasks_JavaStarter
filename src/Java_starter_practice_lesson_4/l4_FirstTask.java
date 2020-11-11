@@ -1,4 +1,4 @@
-package Java_starter_practice_lasson_4;
+package Java_starter_practice_lesson_4;
 //дан масив. Написать программу для подсчета нечетных чисел в нем
 import java.util.Arrays;
 
